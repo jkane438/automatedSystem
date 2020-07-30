@@ -1,4 +1,4 @@
-# automatedSystem
+# AutoPAM
 This project was created for my 2020 placement. This windows application outputs the camera feed from a Microscope and allows the user to:
   - See Live Microscopic Camera Feed
   - Measure angles and length of Cells on Live feed
